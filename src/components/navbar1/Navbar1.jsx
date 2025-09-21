@@ -1,12 +1,13 @@
 import React from 'react'
 import { assests } from '../../assets/asessts'
-import './Navbar1.css'
+import './Navbar1.css';
 
 const Navbar1 = () => {
   return (
     <div className='nav-top'>
       <div className="nav-top-left">
         <img src={assests.logo} alt="" className="nav-top-logo" />
+        <hr />
         <div className="sa">Everyday & Other Services</div>
       </div>
       <div className="nav-top-center">

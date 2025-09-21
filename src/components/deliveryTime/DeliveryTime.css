@@ -1,0 +1,31 @@
+.delivery-time{
+    display: flex;
+    align-items: center;
+    flex: 1;
+    gap: 20px;
+    background-color: rgb(246, 246, 246);
+    padding: 10px 20px;
+}
+.delivery-time-sec{
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.delivery-time-text{
+    color: black;
+    font-weight: 600;
+}
+.delivery-time-text span , .delivery-time-option {
+    color: green;
+    text-decoration: underline;
+    font-weight: 400;
+    padding-left: 5px;
+}
+.delivery-time hr{
+    border: 1px solid grey;
+    height: 30px;
+}
+.delivery-time .fa-angle-right{
+    margin-left: 5px;
+}

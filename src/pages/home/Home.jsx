@@ -5,7 +5,8 @@ import './Home.css'
 const Home = () => {
   return (
     <div className='navbar'>
-      <Navbar1 />
+      home
+      <hr />
     </div>
   )
 }

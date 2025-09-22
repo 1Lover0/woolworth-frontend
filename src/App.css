@@ -16,3 +16,10 @@ hr{
 .section-padding{
     padding: 20px;
 }
+li{
+    list-style: none;
+}
+.app-body{
+    width: 85%;
+    margin: auto;
+}

@@ -24,6 +24,7 @@ const Banner = () => {
             <h3>Welcome to Woolworths</h3>
             <p>Get the most out of your shop </p>
             <span>Log in or sign up</span>
+
             <div className="banner-right-item">
                 <div className="banner-right-item-text">
                     <span>New</span>
@@ -33,6 +34,16 @@ const Banner = () => {
                     <img src={assests.catalogue1} alt="" />
                 </div>
             </div>
+
+            <div className="banner-right-item">
+                <div className="banner-right-item-text">
+                    <p className='banner-right-item-text-space'>All Specials & Offers</p>
+                </div>
+                <div className="banner-right-item-img">
+                    <img src={assests.catalogue1} alt="" />
+                </div>
+            </div>
+
         </div>
     </div>
   )

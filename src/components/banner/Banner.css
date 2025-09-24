@@ -21,10 +21,79 @@
     width: 350px;
 }
 .banner-left-text-top h3{
-    font-size: 35px;
+    font-size: 45px;
     color: black;
+    font-weight: 600;
+}
+.banner-left-text-top p{
+    font-size: 18px;
+    margin-top: 15px;
+    color: black;
+}
+.banner-left-text-bottom p{
+    color: black;
+    font-size: 18px;
+}
+.banner-left-text-bottom button{
+    color: rgb(104, 99, 99);
+    padding: 15px 20px;
+    border-radius: 7px;
+    margin-top: 10px;
+    font-size: 18px;
+    transition: ease 0.2s;
+}
+.banner-left-text-bottom button:hover{
+    color: white;
+    background-color: rgb(255, 154, 3);
 }
 .banner-left-img img{
    height: 350px;
    border-radius: 55px 0 55px 0;
+}
+.banner-right{
+    width: 280px;
+}
+.banner-right h3{
+    font-size: 25px;
+    color: black;
+    font-weight: 600;
+}
+.banner-right p{
+    color: black;
+    margin: 15px 0 5px;
+}
+.banner-right span{
+    color: green;
+    text-decoration: underline;
+}
+
+.banner-right-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid grey;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 7px;
+    height: 50px;
+}
+.banner-right-item-text{
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    line-height: 5px;
+}
+.banner-right-item-text span{
+    font-size: 14px;
+    text-decoration: none;
+    color: rgb(255, 74, 104);
+    display: flex;
+}
+.banner-right-item-text-space{
+    height: 100%;
+}
+
+
+.banner-right-item-img img{
+    height: 40px;
 }

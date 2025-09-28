@@ -22,7 +22,7 @@ const FindGreatValue = () => {
           <div className="findgreatvalue-item">
             <div className="findgreatvalue-item-header">
               <img src="" alt="" />
-              <p>Fruit & Veg</p>
+              <p>Burger range</p>
             </div>
             <div className="findgreatvalue-item-center">
               <img src="" alt="" />
@@ -34,11 +34,11 @@ const FindGreatValue = () => {
           <div className="findgreatvalue-item">
             <div className="findgreatvalue-item-header">
               <img src="" alt="" />
-              <p>Fruit & Veg</p>
+              <p>Snaks & Sweets</p>
             </div>
             <div className="findgreatvalue-item-center">
               <img src="" alt="" />
-              <p> Save at least 20%* with The Odd Bunch. T&Cs apply</p>
+              <p>Snack deal you'll love</p>
             </div>
             <button className='findgreatvalue-item-button'>Shop now</button>
           </div>
@@ -46,11 +46,11 @@ const FindGreatValue = () => {
           <div className="findgreatvalue-item">
             <div className="findgreatvalue-item-header">
               <img src="" alt="" />
-              <p>Fruit & Veg</p>
+              <p>Dairy & fridge</p>
             </div>
             <div className="findgreatvalue-item-center">
               <img src="" alt="" />
-              <p> Save at least 20%* with The Odd Bunch. T&Cs apply</p>
+              <p>Fill your fridge for less</p>
             </div>
             <button className='findgreatvalue-item-button'>Shop now</button>
           </div>
@@ -58,11 +58,11 @@ const FindGreatValue = () => {
           <div className="findgreatvalue-item">
             <div className="findgreatvalue-item-header">
               <img src="" alt="" />
-              <p>Fruit & Veg</p>
+              <p>Everday market</p>
             </div>
             <div className="findgreatvalue-item-center">
               <img src="" alt="" />
-              <p> Save at least 20%* with The Odd Bunch. T&Cs apply</p>
+              <p>Braun Airfryer, Toaster & 1.7L Kettle BUNDLE</p>
             </div>
             <button className='findgreatvalue-item-button'>Shop now</button>
           </div>

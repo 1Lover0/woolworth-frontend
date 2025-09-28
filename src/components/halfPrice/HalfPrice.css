@@ -1,0 +1,24 @@
+.halfprice{
+    display: flex;
+    flex-direction: column;
+}
+.halfprice-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.halfprice-header-left{
+    display: flex;
+    flex-direction: row;
+}
+.halfprice-items{
+    display: flex;
+    gap: 30px;
+    flex-wrap: nowrap;
+    width: 100%;
+    overflow: scroll;
+}
+.halfprice-items-item{
+    min-width: 220px;
+    background-color: red;
+}
